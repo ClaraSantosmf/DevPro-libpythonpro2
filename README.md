@@ -3,5 +3,4 @@ Remembering pytool concepts
 
 The course is PythonPro at https://pythonpro.com.br/
 
-Trying to commit
-git... 
+Trying to commit. Try nº 7. 
